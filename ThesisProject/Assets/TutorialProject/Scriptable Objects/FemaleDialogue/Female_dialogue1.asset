@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d09eb25f2ebdda14981537b3872c3a02, type: 3}
+  m_Name: Female_dialogue1
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - dialogue: But Rehoboam rejected the advice of the elders; instead, he consulted
+      the young men who had grown up with him and served him.
+  - dialogue: "He asked them, \u201CWhat message do you advise that we send back
+      to these people who have spoken to me, saying, \u2018Lighten the yoke your
+      father put on us\u2019?\u201D"
+  - dialogue: "The young men who had grown up with him replied, \u201CThis is how
+      you should answer these people who said to you, \u2018Your father made our
+      yoke heavy, but you must make it lighter.\u2019 This is what you should tell
+      them: \u2018My little finger is thicker than my father\u2019s waist!"
